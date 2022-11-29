@@ -1,0 +1,497 @@
+@font-face {
+    font-family: lato;
+    src: url(../fonts/Lato\ \(1\).zip);
+  }
+body{
+    margin: 0 !important;
+    padding: 0!important;
+
+}
+.maindiv{
+    background-image: url(../img/Rectangle\ 3.png) !important;
+    background-size: cover !important;
+    background-position: center !important;
+max-width: 100% !important;
+
+}
+
+header{
+    background-color: transparent !important;
+}
+.navbar-brand{
+    color: white !important;
+    font-size: 49px !important;
+color: #ffffff !important;
+font-weight: 900;
+font-family: "Lato" !important;
+}
+.nav-item a{
+    color: white !important;
+    font-size: 18px !important;
+line-height: 28px !important;
+
+
+font-weight: 400 !important;
+font-family: "Lato" !important;
+}
+.text1{
+    font-size: 72px !important;
+letter-spacing: 3px !important;
+color: #ffffff !important;
+font-weight: 900 !important;
+font-family: "Lato" !important;
+width: 411px;
+}
+.mainbtn{
+    width: 224px !important;
+height: 50px !important;
+border-radius: 25px !important;
+background-color: #ffffff !important;
+
+text-align: center ;
+justify-content: center;
+
+
+}
+.mainbtn a{
+    font-size: 18px;
+color: #db4444;
+font-weight: 700;
+font-family: "Lato";
+background-color: transparent !important;
+
+}
+.screen{
+    width: 370px !important;
+    margin-top: -50px;
+}
+
+.navbar-toggler{
+    color: transparent!important;
+background-color: white !important;
+}
+.navbar-toggler span{
+    color: black !important;  
+}
+
+.img1{
+    position: relative !important;
+    left: -100px !important;
+    width: 500px !important;
+}
+.img2{
+    position: absolute !important;
+    top: 70px;
+    left: 200px;
+    width: 500px !important;
+}
+.Easy{
+    font-size: 60px;
+color: #363636;
+font-weight: 900;
+font-family: "Lato";
+}
+.p1{
+    width: 520px !important;
+height: 144px !important;
+font-size: 18px !important;
+line-height: 32px !important;
+color: #808080 !important;
+font-weight: 400 !important;
+font-family: "Lato" !important;
+
+}
+.title{
+    display: flex;
+    text-align: center !important;
+    justify-content: center !important;
+    margin-top: 150px;
+}
+.p6{
+    font-size: 60px !important;
+color: #363636 !important;
+font-weight: 900 !important;
+font-family: "Lato" !important;
+
+}
+.pharaghrap{
+    margin-top: 200px;
+}
+.img3{
+    position: relative !important;
+    left: 215px !important;
+    width: 500px !important;
+}
+.img4{
+    position: absolute !important;
+    top: 70px;
+    width: 500px !important;
+}
+.touch{
+    font-size: 60px;
+color: #363636;
+font-weight: 900;
+font-family: "Lato";
+display: flex;
+}
+.dot{
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50% !important;
+    background-color: #db4444;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: -15px;
+}
+.card-group1{
+    margin-top: 50px;
+ background-color: transparent !important;
+
+ border: 0 !important;
+}
+.card-body1{
+  
+    display: inline-block;
+background-color: transparent !important;
+
+}
+.p7{
+    font-size: 18px !important;
+letter-spacing: 1px !important; 
+line-height: 28px !important;
+color: red !important;
+font-weight: 700 !important;
+font-family: "Lato" !important;
+font-style: normal !important;
+}
+.p2{
+    width: 310px ;
+height: 122px ;
+font-size: 18px ;
+line-height: 32px ;
+color: #808080  ;
+font-weight: 400 ;
+font-style: italic ;
+font-family: "Lato" ;
+}
+
+.c1{
+    border: 1px solid gray;
+    width: 370px !important;
+    height: 213px !important;
+}
+.c1{
+    background-color: transparent !important;
+}
+.cc1{
+    margin-left: 150px !important;
+    margin-right:  30px !important;
+  border: 0;
+}
+.cc2{
+    margin-top: -30px !important;
+    border: 0 !important;
+    box-shadow:0px 30px 30px rgba(54,54,54,0.15);
+}
+.cc3{
+    margin-right: 150px !important;
+    margin-left: 30px !important;
+ border: 0;
+
+}
+.imgname{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    margin-top: -50px;
+}
+.img5{
+    background-image: url(../img/man2.png);
+    background-repeat: no-repeat;
+    
+    display: inline-block;
+    width: 60px !important; 
+    height: 60px !important;
+    border: 1px solid transparent;
+border-radius: 50% !important;
+}
+.name{
+    display: inline-block;
+}
+.namep{
+    color: black !important;
+    margin-left: 15px ;   
+    margin-top: 10px; 
+}
+.namep2{
+    margin-top: -15px;
+  margin-left: 15px ;    
+}
+
+
+.imgname2{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    margin-top: 100px;
+
+}
+.img6{
+    background-image: url(../img/man1.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    display: inline-block;
+    width: 60px !important; 
+    height: 60px !important;
+    border: 1px solid transparent;
+border-radius: 50% !important;
+}
+.name2{
+    display: inline-block;
+}
+.namep3{
+    color: black !important;
+    margin-left: 15px ;   
+    margin-top: 10px; 
+}
+.namep4{
+    margin-top: -15px;
+  margin-left: 15px ;    
+}
+.imgname3{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    margin-top: 50px;
+}
+.maindiv2{
+    background-image: url(../img/Rectangle\ 4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 250px;
+    height: 517px ;
+    width: 100% ;
+    display: flex;
+    position: relative;
+}
+.maindiv3{
+    margin-right: 250px;
+    margin-left: 250px;
+
+}
+.cwp{
+ width: 370px ;
+ height: 136px ;
+ display: inline-block;
+ position: absolute;
+}
+.pfall1{
+    width: 270px;
+    height: 42px;
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 34px;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: "Lato";
+    text-align: right;
+    
+}
+.pfall2{
+    width: 272px;
+height: 81px;
+font-size: 16px;
+letter-spacing: 1px;
+line-height: 28px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Lato";
+text-align: right; 
+margin-top: -25px;
+}
+.phonemaindiv{
+    position: relative;
+}
+
+.img7{
+    background-image: url(../img/iPhone\ 7\ Silver1\ copy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+position: relative;
+    width: 370px ;
+  height:730px;
+  display: inline-block;
+  left: 200px;
+  bottom: 82px;
+  flex-wrap: wrap;
+}
+.phonecover{
+background-image: url(../img/Rectangle\ 5.png);
+background-size: cover;
+background-repeat: no-repeat;
+height: 519px;
+width: 290px;
+position: absolute;
+top: 0;
+right: -180px;;
+}
+.logo1{
+    position: absolute;
+    top:210px;
+   right:-55px;
+
+    color: white;
+    font-size: 50px;
+}
+.cardwphone{
+left: 170px;
+top: 100px;
+flex-wrap: wrap;
+}
+.cardwphone2{
+  bottom: 115px;
+  left: 170px;
+  flex-wrap: wrap;
+}
+.cardwphone3{
+    right: 120px;
+    top: 100px;
+}
+.cardwphone4{
+    right: 120px;
+    bottom: 115px;
+}
+.p12{
+text-align: left;
+}
+.p13{
+    text-align: left;
+}
+.p14{
+    text-align: left;
+}
+.p15{
+    text-align: left;
+}
+.title2 h1{
+    font-size: 60px;
+    color: #363636;
+    font-weight: 900;
+    font-family: "Lato";
+margin-left: 270px;
+margin-top: 150px;
+}
+.title2 h6{
+    width: 914px;
+    height: 36px;
+    font-size: 18px;
+    line-height: 32px;
+    color: #808080;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+    margin-left: 160px;
+}
+.input5{
+width: 570px ;
+height: 50px;
+margin: auto;
+
+}
+.input5 input{
+    width: 571px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #f8f8f8 !important;
+}
+.input5 span{
+color: white;
+width: 180px;
+height: 50px;
+border-radius: 25px;
+filter: drop-shadow(0px 10px 15px rgba(223,27,61,0.3));
+background-image: linear-gradient(0deg, #eb402c 0%, #d80546 100%);
+
+}
+.icon{
+    background-image: url(../img/Your_App_Icon\ .png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:170px;
+    height: 155px;
+    margin: auto;
+}
+.downloadapp h1{
+    font-size: 60px;
+    color: #363636;
+    font-weight: 900;
+    font-family: "Lato";
+    margin-left: 420px;
+    margin-top: 30px;
+}
+.downloadapp h6{
+    width: 914px;
+height: 36px;
+font-size: 18px;
+line-height: 32px;
+color: #808080;
+font-weight: 400;
+font-family: "Lato";
+text-align: center;
+margin: auto;
+}
+.applink{
+    background-image: url(../img/Layer\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 190px;
+    height: 55px;
+    margin: auto;
+    margin-top: 60px;
+}
+.footer div ul li a{
+
+    font-size: 18px !important;
+    line-height: 28px !important;
+    color: #363636 !important;
+    font-weight: 400 !important;
+    font-family: "Lato" !important;
+    margin-right: 20px ;
+
+}
+.dropdown1 button{
+
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #f8f8f8;
+     color: #363636 !important;
+     border: transparent;
+
+
+
+
+}
+.dropdown1 button:hover{
+
+    background-color: #808080;
+}
+.dropdown1 button:checked{
+    background-color:#363636  !important ;
+}
+.dropdown1 button:checked :hover{
+    background-color: #363636 !important;
+}
+.footerright{
+    margin-right: auto !important;
+   
+}
+@media (max-width:995px){
+    .navbar{
+         
+        background-color: #d90746 !important;
+    }
+}
+
+                                                                                                                                                         
